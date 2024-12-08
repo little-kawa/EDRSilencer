@@ -53,6 +53,7 @@ char* edrProcess[] = {
     "CyvrFsFlt.exe",
 // FortiEDR
     "fortiedr.exe",
+    "FortiEDRCollectorService.exe",
 // Cisco Secure Endpoint (Formerly Cisco AMP)
     "sfc.exe",
 // ESET Inspect
